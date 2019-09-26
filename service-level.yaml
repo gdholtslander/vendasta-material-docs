@@ -4,3 +4,4 @@ services:
    language: typescript
    availability: 0
    owner: no-owner
+   status: archived
